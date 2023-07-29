@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057078681390",
+    "project_id": "loginscreen-cf25b",
+    "storage_bucket": "loginscreen-cf25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057078681390:android:ec67f2e8ecda7ee21724bf",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057078681390-10gqsblfqsaquhk8hfj6h34i81qseqe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLf8Raelc3OGmaWyrmMm-gdZte_UJrzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057078681390-10gqsblfqsaquhk8hfj6h34i81qseqe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
